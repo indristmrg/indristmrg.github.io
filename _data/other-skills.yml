@@ -1,0 +1,30 @@
+# Daftar Hard Skills dari CV
+# Persentase di bawah ini adalah contoh dan dapat disesuaikan.
+
+- name: STATA
+  percentage: 90
+  color: success
+
+- name: R-Studio
+  percentage: 85
+  color: info
+
+- name: Python
+  percentage: 80
+  color: warning
+
+- name: Microsoft Excel
+  percentage: 95
+  color: success
+
+- name: Microsoft PowerPoint
+  percentage: 95
+  color: info
+
+- name: Canva
+  percentage: 85
+  color: danger
+
+- name: Google Colab
+  percentage: 80
+  color: warning
