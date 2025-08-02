@@ -6,6 +6,7 @@ description: An analysis of the resilience of Indonesian small and micro firms d
 date: "Juli 4, 2025"
 category: "Publication, Working Papers"
 pdf_url: "/assets/Portofolio.pdf"
+publish: false
 ---
 
 # {{ page.name }}
