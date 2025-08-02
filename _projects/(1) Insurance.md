@@ -1,11 +1,11 @@
 ---
-name: Weathering the Storm - Examining the Resilience of Small and Micro Firms in Indonesia During the COVID-19 Pandemic
+name: Lebih dari Sekadar Punya: Mengapa Friksi Psikologis Menghambat Upgrade Asuransi di Era JKN
 tools: [STATA, Python, Panel Data]
-image: /assets/images/weathering-the-storm.jpg
-description: An analysis of the resilience of Indonesian small and micro firms during the COVID-19 pandemic using panel data.
+image: /assets/images/insurance.jpg
+description: Sebuah analisis mendalam mengenai faktor-faktor psikologis yang menghalangi partisipasi masyarakat dalam program asuransi kesehatan tambahan di Indonesia.
 date: "Juli 4, 2025"
 category: "Publication, Working Papers"
-pdf_url: "/assets/Portofolio.pdf"
+pdf_url: "/assets/_projects/insurance/Portofolio.pdf"
 ---
 
 # {{ page.name }}
@@ -22,7 +22,7 @@ pdf_url: "/assets/Portofolio.pdf"
 
 ## Executive Summary
 
-This paper examines the resilience of small and micro enterprises (SMEs) in Indonesia during the COVID-19 pandemic using panel data from the Micro and Small Industry Survey (VIMK) conducted by the Central Bureau of Statistics (BPS) in 2019, 2021, and 2022. By employing firm-level panel regressions based on 2-digit KBLI classifications and size categories, the study identifies key structural and behavioral factors associated with firm performance during the crisis period. The results reveal that digital adoption—measured by the use of digital marketing and online sales—is a critical driver of resilience for small firms. The study contributes to the growing body of evidence on how digital strategies can buffer SMEs against external economic shocks and support their post-crisis recovery.
+Penelitian ini mengkaji rendahnya tingkat kepemilikan Asuransi Kesehatan Tambahan (AKT) di kalangan peserta Jaminan Kesehatan Nasional (JKN) di Indonesia, meskipun terdapat kebutuhan rasional untuk proteksi finansial yang lebih kuat. Dengan menggunakan data dari Indonesian Family Life Survey (IFLS), penelitian ini bergerak melampaui penjelasan ekonomi tradisional seperti harga premi atau kurangnya informasi. Hipotesis utama yang diajukan adalah bahwa friksi psikologis, seperti bias perilaku, menjadi penghalang utama dalam pengambilan keputusan[cite: 117, 118]. Analisis ini bertujuan untuk membedah dan mengukur pengaruh dari faktor sosio-ekonomi serta bias perilaku untuk memberikan rekomendasi kebijakan yang lebih tajam bagi regulator dan industri asuransi
 
 ---
 
