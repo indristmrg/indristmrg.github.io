@@ -7,3 +7,6 @@
 
 # IntelliJ
 .idea
+
+# Local generated server
+_site
