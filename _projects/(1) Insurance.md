@@ -16,7 +16,7 @@ pdf_url: "/assets/Portofolio.pdf"
   <span><i class="fas fa-folder"></i> &nbsp;{{ page.category }}</span>
 </p>
 
-<img src="{{ page.image | relative_url }}" alt="{{ page.name }}" class="img-fluid rounded mb-4">
+<img src="{{ page.image }}" alt="{{ page.name }}" class="img-fluid rounded mb-4">
 
 ---
 
