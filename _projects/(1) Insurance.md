@@ -22,7 +22,7 @@ pdf_url: "/assets/_projects/insurance/Portofolio.pdf"
 
 ## Executive Summary
 
-Penelitian ini mengkaji rendahnya tingkat kepemilikan Asuransi Kesehatan Tambahan (AKT) di kalangan peserta Jaminan Kesehatan Nasional (JKN) di Indonesia, meskipun terdapat kebutuhan rasional untuk proteksi finansial yang lebih kuat. Dengan menggunakan data dari Indonesian Family Life Survey (IFLS), penelitian ini bergerak melampaui penjelasan ekonomi tradisional seperti harga premi atau kurangnya informasi. Hipotesis utama yang diajukan adalah bahwa friksi psikologis, seperti bias perilaku, menjadi penghalang utama dalam pengambilan keputusan[cite: 117, 118]. Analisis ini bertujuan untuk membedah dan mengukur pengaruh dari faktor sosio-ekonomi serta bias perilaku untuk memberikan rekomendasi kebijakan yang lebih tajam bagi regulator dan industri asuransi
+Penelitian ini mengkaji rendahnya tingkat kepemilikan Asuransi Kesehatan Tambahan (AKT) di kalangan peserta Jaminan Kesehatan Nasional (JKN) di Indonesia, meskipun terdapat kebutuhan rasional untuk proteksi finansial yang lebih kuat. Dengan menggunakan data dari Indonesian Family Life Survey (IFLS), penelitian ini bergerak melampaui penjelasan ekonomi tradisional seperti harga premi atau kurangnya informasi. Hipotesis utama yang diajukan adalah bahwa friksi psikologis, seperti bias perilaku, menjadi penghalang utama dalam pengambilan keputusan. Analisis ini bertujuan untuk membedah dan mengukur pengaruh dari faktor sosio-ekonomi serta bias perilaku untuk memberikan rekomendasi kebijakan yang lebih tajam bagi regulator dan industri asuransi
 
 ---
 
