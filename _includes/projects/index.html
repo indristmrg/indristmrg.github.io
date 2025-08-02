@@ -37,7 +37,7 @@
   <!-- Local Projects -->
   {% for project in site.projects %}
 
-    {% if project.publish != false %}
+    {% if project.published != false %}
 
       {%- assign project_type  = "local" -%}
       {%- assign project_id    = project.name | slugify -%}
