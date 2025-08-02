@@ -1,8 +1,8 @@
 ---
-name: Lebih dari Sekadar Punya: Mengapa Friksi Psikologis Menghambat Upgrade Asuransi di Era JKN
+name: Weathering the Storm - Examining the Resilience of Small and Micro Firms in Indonesia During the COVID-19 Pandemic
 tools: [STATA, Python, Panel Data]
-image: https://financialcrimeacademy.org/wp-content/uploads/2022/04/2-102-1024x576.jpg
-description: Sebuah analisis mendalam mengenai faktor-faktor psikologis yang menghalangi partisipasi masyarakat dalam program asuransi kesehatan tambahan di Indonesia.
+image: /assets/images/weathering-the-storm.jpg
+description: An analysis of the resilience of Indonesian small and micro firms during the COVID-19 pandemic using panel data.
 date: "Juli 4, 2025"
 category: "Publication, Working Papers"
 pdf_url: "/assets/Portofolio.pdf"
