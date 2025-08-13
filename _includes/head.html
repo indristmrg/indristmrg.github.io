@@ -1,6 +1,6 @@
 <head>
 
-  {% assign title = page.title | default: site.title | escape %}
+  {% assign title = page.title | default: site.fullname | escape %}
   {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
   {% assign image = page.image | default: site.author.image %}
 
