@@ -6,7 +6,7 @@ description: "Sebuah analisis mendalam mengenai faktor-faktor psikologis yang me
 date: "Juli 4, 2025"
 category: "Publication, Working Papers"
 pdf_url: "/assets/projects/insurance/Portofolio.pdf"
-published: false # set to true if you want to show this project in website
+published: false   # set to true if you want to show this project in website
 ---
 
 # {{ page.name }}
