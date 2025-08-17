@@ -2,7 +2,7 @@
 title               : indristmrg
 fullname            : Indri Br Situmorang
 description         : >-
-                      I am Indri.
+                      I am Indri Br Situmorang.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : indristmrg/indristmrg.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : indristmrg/indristmrg.github.io
