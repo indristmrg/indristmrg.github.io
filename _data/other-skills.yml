@@ -28,3 +28,7 @@
 - name: Google Colab
   percentage: 80
   color: warning
+
+- name: Google Sheets   
+  percentage: 90
+  color: success
