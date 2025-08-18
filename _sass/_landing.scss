@@ -26,3 +26,24 @@
   object-fit: cover;
   object-position: center;
 }
+/* Typewriter Cursor */
+.cursor {
+  display: inline-block;
+  width: 3px;
+  background-color: #ccc; /* Warna kursor */
+  animation: blink 1s infinite;
+}
+
+/* Hentikan kedipan saat sedang mengetik */
+.cursor.typing {
+  animation: none;
+}
+
+/* Animasi kedipan */
+@keyframes blink {
+  0% { background-color: #ccc; }
+  49% { background-color: #ccc; }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100% { background-color: #ccc; }
+}

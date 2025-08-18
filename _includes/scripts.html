@@ -1,22 +1,43 @@
-<!-- GitHub Buttons -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-<!-- jQuery CDN -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-<!-- Popper.js CDN -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-
-<!-- Bootstrap JS CDN -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
-<!-- wow.js CDN & Activation -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-<script> new WOW().init(); </script>
-
-<!-- Initialize all tooltips -->
 <script>
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-})
+  document.addEventListener("DOMContentLoaded", function() {
+    const textElement = document.getElementById('typewriter-text');
+    const cursorElement = document.querySelector('.cursor');
+
+    // Mengambil teks dari konfigurasi situs
+    const textToType = "{{ site.description | escape }}";
+    const typingSpeed = 150; // Kecepatan mengetik (ms)
+    const erasingSpeed = 100; // Kecepatan menghapus (ms)
+    const delayAfterTyping = 3000; // Jeda setelah selesai mengetik (ms)
+
+    let charIndex = 0;
+
+    function type() {
+      if (charIndex < textToType.length) {
+        cursorElement.classList.add('typing');
+        textElement.textContent += textToType.charAt(charIndex);
+        charIndex++;
+        setTimeout(type, typingSpeed);
+      } else {
+        cursorElement.classList.remove('typing');
+        setTimeout(erase, delayAfterTyping);
+      }
+    }
+
+    function erase() {
+      if (charIndex > 0) {
+        cursorElement.classList.add('typing');
+        textElement.textContent = textToType.substring(0, charIndex - 1);
+        charIndex--;
+        setTimeout(erase, erasingSpeed);
+      } else {
+        cursorElement.classList.remove('typing');
+        setTimeout(type, typingSpeed + 1100);
+      }
+    }
+
+    // Pastikan elemen ada sebelum menjalankan animasi
+    if (textElement) {
+      type(); // Mulai animasi
+    }
+  });
 </script>

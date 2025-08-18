@@ -14,3 +14,12 @@
     box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
   }
 }
+.project.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%; // Pastikan kartu mengisi tinggi kolom
+}
+
+.project.card .card-body {
+  flex-grow: 1; // Izinkan card-body untuk meregang
+}

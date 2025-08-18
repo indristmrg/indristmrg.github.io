@@ -2,7 +2,7 @@
 name: "Lebih dari Sekadar Punya: Mengapa Friksi Psikologis Menghambat Upgrade Asuransi Komersil?"
 tools: [IFLS, Regresi Logistik, Ekonomi Perilaku]
 image: "/assets/projects/asuransi/asuransi.jpg"
-description: "Analisis hambatan kepemilikan asuransi komersil di era JKN menggunakan IFLS-5 ."
+description: "Analisis hambatan kepemilikan asuransi komersil di era JKN menggunakan IFLS-5."
 date: "Agustus 17, 2025"
 category: "Penelitian Akademik"
 pdf_url: "/assets/projects/asuransi/Asuransi.pdf"
