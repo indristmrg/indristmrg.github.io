@@ -31,3 +31,11 @@ body {
     color: $text-white !important;
   }
 }
+#office-productivity-tools-list {
+  column-count: 2;
+  column-gap: 1rem;
+}
+
+#office-productivity-tools-list .row {
+  break-inside: avoid;
+}

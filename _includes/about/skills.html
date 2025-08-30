@@ -1,14 +1,11 @@
 <div class="col-lg">
 
-  <h2 class="mb-3">{{ include.title }}</h2>
+  <h4 class="mb-3">{{ include.title }}</h4>
 
-  {% for skill in include.source %}
-
-  <div class="row justify-content-between align-items-center">
-    <div class="col-10">
-      <p class="mb-1">{{ skill.name }}</p>
-    </div>
+  <div id="{{ include.title | slugify }}-list" class="skill-grid">
+    {% for skill in include.source %}
+      <span class="badge badge-pill text-primary border border-primary">{{ skill.name }}</span>
+    {% endfor %}
   </div>
-  {% endfor %}
 
 </div>

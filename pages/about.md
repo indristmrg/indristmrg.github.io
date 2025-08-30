@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+## **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 Fresh graduate that passionate about data management and policy research, equipped with 
@@ -18,10 +18,30 @@ am a continuous learner committed to personal and professional growth. I also to
 leave due to financial and health reasons, yet remained committed and completed my degree on time in 
 8 semesters, demonstrating responsibility and perseverance. 
 
+## **Skills**
 <div class="row">
-{% include about/skills.html title="Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Data Analysis & Programming" source=site.data.data-analysis-skills %}
+{% include about/skills.html title="Office & Productivity Tools" source=site.data.productivity-skills %}
 </div>
 
-<div class="row">
+## **Education**
+<div class="row mt-4">
+  <div class="col">
+    <div class="timeline-body bg-themed">
+      {% for item in site.data.education %}
+        <div class="timeline-item">
+          <div class="content">
+            <h4>{{ item.title }}</h4>
+            <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
+            <p>{{ item.description }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+## <strong>Experience</strong>
+<div class="row mt-4">
 {% include about/timeline.html %}
 </div>
