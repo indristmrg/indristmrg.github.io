@@ -24,3 +24,28 @@
     color: white !important;
   }
 }
+.post {
+  font-family: 'Merriweather', serif; /* Menggunakan font Merriweather untuk post */
+  line-height: 1.8; /* Meningkatkan jarak antar baris untuk keterbacaan */
+  font-size: 1.15em; /* Ukuran font sedikit lebih besar */
+  color: #333; /* Warna teks yang lebih lembut untuk mode terang */
+
+  @media (prefers-color-scheme: dark) {
+    color: #ddd; /* Warna teks untuk mode gelap */
+  }
+}
+
+.post p:first-of-type:first-letter {
+  float: left;
+  font-size: 4em; /* Ukuran huruf awal yang besar */
+  line-height: 0.8; /* Mengatur tinggi baris agar pas */
+  padding-top: 4px; /* Sedikit padding di atas */
+  padding-right: 8px; /* Jarak kanan agar teks tidak menempel */
+  padding-left: 3px; /* Sedikit padding kiri */
+  font-family: 'Merriweather', serif; /* Pastikan drop cap menggunakan font serif */
+  color: #000; /* Warna huruf drop cap untuk mode terang */
+
+  @media (prefers-color-scheme: dark) {
+    color: $text-white; /* Warna huruf drop cap untuk mode gelap */
+  }
+}

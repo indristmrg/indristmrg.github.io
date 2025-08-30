@@ -9,6 +9,13 @@ body {
 .badge {
   font-weight: 500;
 }
+.markdown-body {
+  font-family: 'Merriweather', serif;
+  line-height: 1.8; /* Meningkatkan jarak antar baris untuk keterbacaan */
+  font-size: 1.15em; /* Ukuran font sedikit lebih besar */
+  color: #333; /* Warna teks yang lebih lembut untuk mode terang */
+  letter-spacing: 0.5px;/* Menambahkan sedikit spasi antar huruf */
+}
 
 .bg-light,
 .badge-light {
