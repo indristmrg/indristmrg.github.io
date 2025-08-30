@@ -5,6 +5,8 @@
 
   .card-img-top {
     border-radius: $rounded-borders $rounded-borders 0 0;
+    height: 200px; /* Atur tinggi gambar yang seragam */
+    object-fit: cover; /* Pastikan gambar mengisi area tanpa distorsi */
   }
 
   transition: transform 400ms;
