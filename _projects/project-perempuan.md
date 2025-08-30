@@ -1,6 +1,5 @@
 ---
 name: "Pengaruh Peran dan Partisipasi Perempuan Terhadap Pertumbuhan Ekonomi Indonesia"
-permalink: /projects/peran-perempuan-ekonomi
 tools: [BPS, Fixed Effect Model, Macroeconomics, R, Python]
 image: "/assets/projects/perempuan/perempuan.png"
 description: "Penelitian ini bertujuan untuk menganalisis sejauh mana peran dan partisipasi perempuan berkontribusi terhadap pertumbuhan ekonomi Indonesia."
