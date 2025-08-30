@@ -19,7 +19,8 @@
   flex-direction: column;
   height: 100%; // Pastikan kartu mengisi tinggi kolom
 }
-
 .project.card .card-body {
-  flex-grow: 1; // Izinkan card-body untuk meregang
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; 
 }
