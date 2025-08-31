@@ -3,10 +3,12 @@ layout: post
 title: "When Parliament Forgets the People"
 date: 2025-08-30 18:21:00 +0700
 tags: [House of Representatives, Politics, Indonesia, Social Justice, Protest]
+image: "/assets/blog/parliament.png" # <-- Tambahkan baris ini
 style: border
 color: primary
 description: "An analysis of the recent public outcry and mass demonstrations against Indonesia's parliament, highlighting the growing disconnect between legislators and citizens."
 ---
+![Deskripsi Alternatif Gambar](/assets/blog/parliament.png "Judul Gambar (opsional)")
 
 The legislative institution is supposed to represent the people, protect their interests, and address societal hardships. Yet, in Indonesia today, the opposite seems true. Instead of creating fair laws through parliamentary discussion, the legislature is often perceived as siding against the public. Recent policies have sparked widespread debates, culminating in large-scale demonstrations on August 25, 2025, at the Indonesian Parliament by students, workers, traders, influencers, activists, and online motorcycle taxi drivers.
 
