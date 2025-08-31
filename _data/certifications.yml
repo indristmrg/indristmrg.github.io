@@ -1,0 +1,15 @@
+# _data/certifications.yml
+
+- title: "Introduction to Tensorflow"
+  image: "/assets/certifications/intro-tensorflow.jpg"
+  description: "Menyelesaikan kursus komprehensif tentang analisis data, yang mencakup topik-topik seperti data wrangling, visualisasi, dan analisis statistik."
+
+- title: "Introduction for Git"
+  image: "/assets/certifications/intro-git.jpg"
+  description: "Menguasai pustaka Python tingkat lanjut seperti Pandas, NumPy, dan Scikit-learn untuk aplikasi ilmu data."
+
+- title: "Linear Algebra"
+  image: "/assets/certifications/linear-algebra.jpg"
+  description: "Menguasai pustaka Python tingkat lanjut seperti Pandas, NumPy, dan Scikit-learn untuk aplikasi ilmu data."
+
+# Tambahkan sertifikat lain di sini dengan format yang sama

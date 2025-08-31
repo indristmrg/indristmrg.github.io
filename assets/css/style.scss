@@ -1,3 +1,23 @@
 ---
 ---
 @import "portfolYOU";
+
+/* Kustomisasi Tombol Carousel */
+#certificationsCarousel .carousel-control-prev-icon,
+#certificationsCarousel .carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5); /* Latar belakang semi-transparan */
+  border-radius: 50%; /* Membuat latar belakang menjadi lingkaran */
+  padding: 20px; /* Menambah ruang di sekitar ikon */
+  background-size: 50% 50%; /* Mengatur ukuran ikon di dalam lingkaran */
+}
+
+#certificationsCarousel .carousel-control-prev,
+#certificationsCarousel .carousel-control-next {
+  width: 5%; /* Mengatur lebar area klik tombol */
+}
+
+/* Kustomisasi Judul Sertifikasi Carousel */
+#certificationsCarousel .carousel-item h5 {
+  font-weight: bold;
+  font-size: 1.5rem; /* Ukuran default h5 adalah 1.25rem, kita bisa perbesar jika perlu */
+}

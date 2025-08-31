@@ -24,6 +24,9 @@ leave due to financial and health reasons, yet remained committed and completed 
 {% include about/skills.html title="Office & Productivity Tools" source=site.data.productivity-skills %}
 </div>
 
+## **Certifications**
+{% include about/certifications.html %}
+
 ## **Education**
 <div class="row mt-4">
   <div class="col">
