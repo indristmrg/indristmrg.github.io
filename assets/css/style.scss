@@ -1,3 +1,49 @@
 ---
 ---
 @import "portfolYOU";
+
+/* Kustomisasi Tombol Carousel */
+#certificationsCarousel .carousel-control-prev-icon,
+#certificationsCarousel .carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5); /* Latar belakang semi-transparan */
+  border-radius: 50%; /* Membuat latar belakang menjadi lingkaran */
+  padding: 20px; /* Menambah ruang di sekitar ikon */
+  background-size: 50% 50%; /* Mengatur ukuran ikon di dalam lingkaran */
+}
+
+#certificationsCarousel .carousel-control-prev,
+#certificationsCarousel .carousel-control-next {
+  width: 5%; /* Mengatur lebar area klik tombol */
+}
+
+/* Kustomisasi Judul Sertifikasi Carousel */
+#certificationsCarousel .carousel-item h5 {
+  font-weight: bold;
+  font-size: 1.5rem; /* Ukuran default h5 adalah 1.25rem, kita bisa perbesar jika perlu */
+}
+
+/* Kustomisasi Indikator Carousel */
+#certificationsCarousel .carousel-indicators li {
+  background-color: #888; /* Warna abu-abu gelap untuk indikator yang tidak aktif */
+}
+
+#certificationsCarousel .carousel-indicators .active {
+  background-color: #333; /* Warna hitam untuk indikator yang aktif */
+}
+
+/* Kustomisasi Ukuran Gambar Carousel Sertifikasi */
+#certificationsCarousel .carousel-item img {
+  height: 450px; /* Atur tinggi tetap untuk semua gambar */
+  object-fit: contain; /* Pastikan gambar pas tanpa terpotong atau distorsi */
+  width: 100%;
+}
+
+#certificationsCarousel .carousel-item {
+  /* Memastikan transisi yang mulus antar slide dengan tinggi yang berbeda */
+  transition: transform 0.6s ease-in-out; 
+}
+
+/* Kustomisasi Jarak Teks Carousel Sertifikasi */
+#certificationsCarousel .certification-text {
+  min-height: 170px; /* Atur tinggi minimum untuk area teks */
+}
