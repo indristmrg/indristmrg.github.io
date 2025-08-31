@@ -1,4 +1,4 @@
-<div id="certificationsCarousel" class="carousel slide" data-ride="carousel" data-interval="2000">
+<div id="certificationsCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
   <ol class="carousel-indicators">
     {% for cert in site.data.certifications %}
       <li data-target="#certificationsCarousel" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
@@ -7,9 +7,9 @@
   <div class="carousel-inner">
     {% for cert in site.data.certifications %}
       <div class="carousel-item {% if forloop.first %}active{% endif %}">
-        <div class="text-center mb-3">
-          <h5>{{ cert.title }}</h5>
-          <p>{{ cert.description }}</p>
+        <div class="certification-text text-center mb-3">
+        <h5>{{ cert.title }}</h5>
+        <p>{{ cert.description }}</p>
         </div>
         <img src="{{ cert.image | relative_url }}" class="d-block w-100" alt="{{ cert.title }}">
       </div>
