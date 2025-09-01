@@ -4,11 +4,26 @@
   image: "/assets/certifications/TOEFL.png"
   description: "Completed the Comprehensive Test of English on January 3, 2025, at the English Self-Access Centre, Faculty of Economics and Business, Universitas Indonesia, Depok."
 
+- title: "Introduction to Data Science with Python"
+  image: "/assets/certifications/python.jpg"
+  description: "Completed the course “Introduction to Data Science with Python” - Acquired essential skills in data analysis, visualization, and statistical methods using Python."
+
 - title: "CITI Program Course in Social & Behavioral Research"
   image: "/assets/certifications/CITI.jpg"
   description: "Completed the CITI Program Course in Social & Behavioral Research. The certification was issued under the requirements set by Universitas Indonesia in collaboration with the CITI Program, Fort Lauderdale, Florida, USA."
+
+- title: "Introduction to Data Science with R"
+  image: "/assets/certifications/R.jpg"
+  description: "Completed the course “Introduction to Data Science with R” – Gained foundational knowledge of data manipulation, visualization, and basic statistical analysis using R."
 
 - title: "How to Change the World"
   image: "/assets/certifications/social.jpg"
   description: "Completed the course “How to Change the World” that explores how shared values and common ground can be used to address some of the world’s most pressing challenges, including poverty, the environment, technology, health care, gender, education, and activism."
 
+- title: "Guide to Learn SQL with AI at DQLab"
+  image: "/assets/certifications/SQL.jpg"
+  description: "Completed the course “Guide to Learn SQL with AI at DQLab” - introduced the fundamentals of SQL and demonstrated how AI can be integrated to enhance query learning and data analysis, providing practical skills in managing and interpreting databases."
+
+- title: "Introduction to Data Analysis using Microsoft Excel"
+  image: "/assets/certifications/EXCEL.jpg"
+  description: "Completed the course “Introduction to Data Analysis using Microsoft Excel” – Learned practical skills in organizing, analyzing, and visualizing data using Excel functions, pivot tables, and charts."
