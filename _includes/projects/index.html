@@ -1,7 +1,5 @@
-
 <div class="row mt-5">
 
-  <!-- Remote Projects -->
   {% for remote_project in page.remote_projects %}
 
     {%- for repo in site.github.public_repositories -%}
@@ -34,8 +32,8 @@
 
   {% endfor %}
 
-  <!-- Local Projects -->
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+  {% for project in sorted_projects %}
 
     {% if project.published != false %}
 
