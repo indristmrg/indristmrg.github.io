@@ -28,8 +28,12 @@
 }
 
 .navbar-brand {
-  margin-bottom: -14px;
   &::after {
     margin-top: -0.25em;
   }
+}
+
+.navbar-nav .nav-item {
+  margin-left: 10px; /* Menambahkan jarak di sisi kiri setiap item */
+  margin-right: 10px; /* Menambahkan jarak di sisi kanan setiap item */
 }

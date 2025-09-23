@@ -8,15 +8,8 @@ weight: 3
 ## **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Fresh graduate that passionate about data management and policy research, equipped with 
-strong analytical thinking and writing skills. I have gained practical experience in regulatory 
-compliance, fintech operations, and strategic documentation through my role at PT Adhyoka Berkah 
-Maju. I have demonstrated the ability to coordinate effectively with financial institutions and contribute 
-to the development of high-quality regulatory and business planning documents. I am a resilient and 
-adaptable team player with a proven track record of problem-solving in dynamic environments, and I 
-am a continuous learner committed to personal and professional growth. I also took a brief academic 
-leave due to financial and health reasons, yet remained committed and completed my degree on time in 
-8 semesters, demonstrating responsibility and perseverance. 
+a fresh graduate passionate about data management and policy research, equipped with strong analytical and writing skills. My professional experience at PT Adhyoka Berkah Maju provided hands-on experience in regulatory compliance and business operations within the fintech sector. Academically, I strengthened my research capabilities as a Research Assistant by managing large-scale datasets and contributing to publications, while my role as a Teaching Assistant at the University of Indonesia refined my organizational and communication skills. I am a resilient and adaptable team player, having demonstrated perseverance by overcoming personal challenges to complete my degree on schedule within 8 semesters.
+ 
 
 ## **Skills**
 <div class="row">
@@ -24,7 +17,7 @@ leave due to financial and health reasons, yet remained committed and completed 
 {% include about/skills.html title="Office & Productivity Tools" source=site.data.productivity-skills %}
 </div>
 
-## **Certifications**
+## **Certificate**
 {% include about/certifications.html %}
 
 ## **Education**
@@ -44,12 +37,12 @@ leave due to financial and health reasons, yet remained committed and completed 
   </div>
 </div>
 
-## <strong> Working Experiences</strong>
+## **Working Experiences**
 <div class="row mt-4">
 {% include about/timeline.html %}
 </div>
 
-## <strong>Organizational/Volunteer Activities</strong>
+## **Organizational/Volunteer Activities**
 <div class="row mt-4">
   <div class="col">
     <div class="timeline-body bg-themed">
