@@ -13,7 +13,7 @@ published: true
 # {{ page.name }}
 
 <p class="post-metadata text-muted">
-  <span><i class="fas fa-calendar-alt"></i> &nbsp;{{ page.date }}</span>
+  <span><i class="fas fa-calendar-alt"></i> &nbsp;{{ page.date | date: "%B %d, %Y" }}</span>
   <span class="mx-2">|</span>
   <span><i class="fas fa-folder"></i> &nbsp;{{ page.category }}</span>
 </p>
