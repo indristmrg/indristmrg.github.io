@@ -4,7 +4,7 @@ permalink: /projects/preferensi-risiko
 tools: [IFLS, Logistic Regression, Behavioural Economics, Stata]
 image: "/assets/projects/risk-preference/images.jpg"
 description: "Analisis preferensi risiko antara Generasi Milenial dan Generasi Z di Indonesia dengan mempertimbangkan urutan kelahiran, menggunakan data IFLS-5."
-date: "Agustus 13, 2025"
+date: "2025-08-13"
 category: "Penelitian Akademik"
 pdf_url: "/assets/projects/risk-preference/risk_preference.pdf"
 published: true

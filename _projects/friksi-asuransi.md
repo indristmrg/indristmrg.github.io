@@ -4,7 +4,7 @@ permalink: /projects/friksi-asuransi
 tools: [IFLS, Logistic Regression, Behavioural Economics, Python]
 image: "/assets/projects/asuransi/asuransi.jpg"
 description: "Analisis hambatan kepemilikan asuransi komersil di era JKN menggunakan IFLS-5."
-date: "Agustus 17, 2025"
+date: "2025-08-17"
 category: "Penelitian Akademik"
 pdf_url: "/assets/projects/asuransi/Asuransi.pdf"
 published: true
