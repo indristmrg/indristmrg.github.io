@@ -44,7 +44,24 @@ leave due to financial and health reasons, yet remained committed and completed 
   </div>
 </div>
 
-## <strong>Experience</strong>
+## <strong> Working Experiences</strong>
 <div class="row mt-4">
 {% include about/timeline.html %}
+</div>
+
+## <strong>Organizational/Volunteer Activities</strong>
+<div class="row mt-4">
+  <div class="col">
+    <div class="timeline-body bg-themed">
+      {% for item in site.data.organizational %}
+        <div class="timeline-item">
+          <div class="content">
+            <h4>{{ item.title }}</h4>
+            <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
+            <div>{{ item.description | markdownify }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
