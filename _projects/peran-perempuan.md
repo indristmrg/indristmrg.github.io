@@ -4,7 +4,7 @@ permalink: /projects/peran-perempuan
 tools: [BPS, Fixed Effect Model, Macroeconomics, R, Python]
 image: "/assets/projects/perempuan/perempuan.png"
 description: "Penelitian ini bertujuan untuk menganalisis sejauh mana peran dan partisipasi perempuan berkontribusi terhadap pertumbuhan ekonomi Indonesia."
-date: "Agustus 30, 2025"
+date: "2025-08-30"
 category: "Penelitian Akademik"
 pdf_url: "/assets/projects/perempuan/Perempuan.pdf"
 published: true
