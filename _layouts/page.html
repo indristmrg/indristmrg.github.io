@@ -5,3 +5,11 @@ layout: default
 <div class="col-lg-8 mx-auto mt-5 markdown-body">
   {{ content }}
 </div>
+
+---
+layout: default
+---
+
+<div class="col-lg-8 mx-auto mt-5 markdown-body {{ page.title | slugify }}-page">
+  {{ content }}
+</div>
