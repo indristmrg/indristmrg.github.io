@@ -5,13 +5,13 @@
   percentage: 90
   color: success
 
-- name: R-Studio
-  percentage: 85
-  color: info
-
 - name: Python
   percentage: 80
   color: warning
+
+- name: R-Studio
+  percentage: 85
+  color: info
 
 - name: Microsoft Excel
   percentage: 95
