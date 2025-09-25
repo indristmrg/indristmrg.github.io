@@ -9,7 +9,8 @@ id: about-page
 ## **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-a fresh graduate passionate about data management and policy research, equipped with strong analytical and writing skills. My professional experience at PT Adhyoka Berkah Maju provided hands-on experience in regulatory compliance and business operations within the fintech sector. Academically, I strengthened my research capabilities as a Research Assistant by managing large-scale datasets and contributing to publications, while my role as a Teaching Assistant at the University of Indonesia refined my organizational and communication skills. I am a resilient and adaptable team player, having demonstrated perseverance by overcoming personal challenges to complete my degree on schedule within 8 semesters.
+a fresh graduate passionate about data management and policy research, with strong analytical and writing skills. My professional experience at PT Adhyoka Berkah Maju provided hands-on exposure to business operations in the fintech sector. Academically, I enhanced my research capabilities as a Teaching Assistant by managing large-scale datasets, contributing to publications, and refining my organizational and communication skills. I am a resilient and adaptable team player with a strong eagerness to continuously learn and grow, demonstrated by my perseverance in overcoming personal challenges and completing my degree on schedule within eight (8) semesters.
+
  
 
 ## **Skills**
