@@ -5,7 +5,8 @@ description         : >-
                       I am Indri Br Situmorang.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : indristmrg/indristmrg.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : indristmrg/indristmrg.github.io
+# remote_theme        : indristmrg/indristmrg.github.io
+theme : minima
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -13,6 +14,8 @@ open_new_tab        : false                    # Opens external URLs in new tab 
 plugins:
   - jemoji
 
+# Disable GitHub Metadata
+github: [metadata]
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar

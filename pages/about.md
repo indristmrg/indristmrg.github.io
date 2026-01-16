@@ -8,7 +8,7 @@ id: about-page
 
 ## **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hello, I am **{{ site.author.name }}** :wave:,<br>
 a fresh graduate passionate about data management and policy research, with strong analytical and writing skills. My professional experience at PT Adhyoka Berkah Maju provided hands-on exposure to business operations in the fintech sector. Academically, I enhanced my research capabilities as a Teaching Assistant by managing large-scale datasets, contributing to publications, and refining my organizational and communication skills. I am a resilient and adaptable team player with a strong eagerness to continuously learn and grow, demonstrated by my perseverance in overcoming personal challenges and completing my degree on schedule within eight (8) semesters.
 
  
